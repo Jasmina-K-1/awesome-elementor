@@ -12,5 +12,6 @@ Please ensure your pull request adheres to the following guidelines:
 - End all descriptions with a full stop/period.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
+- This is a change I have to make for my course Server Architecture!
 
 Thank you for your suggestions!
